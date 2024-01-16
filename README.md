@@ -18,6 +18,7 @@ My collection of various PowerShell scripts.
 | [Csv-AddDoubleQuotes.ps1](Scripts/Csv-AddDoubleQuotes.ps1)                         | This script will import a CSV file and convert it to using qouted fields. [Read more...](Scripts/Csv-AddDoubleQuotes.md)                  |
 | [Encode-String.ps1](Scripts/Encode-String.ps1)                         | Functions for URL encoding and decoding strings . [Read more...](Scripts/Encode-String.md)                  |
 | [Get-Non-ASCII-Files.ps1](Scripts/Get-Non-ASCII-Files.ps1)                         | Find files in the specified path that have non-ASCII characters in filenames. [Read more...](Scripts/Get-Non-ASCII-Files.md)                  |
+| [Install-Latest-rdpwrap.ps1](Scripts/Install-Latest-rdpwrap.ps1)                         | Downloads the latest sebaxakerhtc/rdpwrap installers from GitHub. [Read more...](Scripts/Install-Latest-rdpwrap.md)                  |
 | [Test-Non-ASCII.ps1](Scripts/Test-Non-ASCII.ps1)                         | Check if value contains non-ASCII characters. [Read more...](Scripts/Test-Non-ASCII.md)                  |
 | [Update-README.ps1](Scripts/Update-README.ps1)                         | Updates the scripts list in README.md. [Read more...](Scripts/Update-README.md)                  |
 <!-- ScriptEnd -->
@@ -29,6 +30,7 @@ Send your email feedback to: `jpann [at] impostr-labs.com`
 🤝 License & Copyright
 -----------------------
 This open source project is licensed under the MIT license. All trademarks are the property of their respective owners.
+
 
 
 
