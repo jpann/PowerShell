@@ -15,6 +15,7 @@ My collection of various PowerShell scripts.
 | [Get-FileSize.ps1](Scripts/Get-FileSize/Get-FileSize.ps1)                         | Gets the size of the specified file in bytes. [Read more...](Scripts/Get-FileSize/Get-FileSize.md)                  |
 | [Invoke-Get-FileSize.ps1](Scripts/Get-FileSize/Invoke-Get-FileSize.ps1)                         | Basic example of invoking Get-FileSize.ps1 [Read more...](Scripts/Get-FileSize/Invoke-Get-FileSize.md)                  |
 | [Get-Lines.ps1](Scripts/Get-Lines/Get-Lines.ps1)                         | Gets the specified lines from a text file. [Read more...](Scripts/Get-Lines/Get-Lines.md)                  |
+| [OpenWithPlusPlus-Git-Pull.ps1](Scripts/OpenWithPlusPlus/OpenWithPlusPlus-Git-Pull.ps1)                         | Performs a 'git pull' in the specified directory. [Read more...](Scripts/OpenWithPlusPlus/OpenWithPlusPlus-Git-Pull.md)                  |
 | [Csv-AddDoubleQuotes.ps1](Scripts/Csv-AddDoubleQuotes.ps1)                         | This script will import a CSV file and convert it to using qouted fields. [Read more...](Scripts/Csv-AddDoubleQuotes.md)                  |
 | [Encode-String.ps1](Scripts/Encode-String.ps1)                         | Functions for URL encoding and decoding strings . [Read more...](Scripts/Encode-String.md)                  |
 | [Get-Asus-Router-ClientList.ps1](Scripts/Get-Asus-Router-ClientList.ps1)                         | Gets the connected client list from the specified Asus router. [Read more...](Scripts/Get-Asus-Router-ClientList.md)                  |
@@ -32,6 +33,7 @@ Send your email feedback to: `jpann [at] impostr-labs.com`
 🤝 License & Copyright
 -----------------------
 This open source project is licensed under the MIT license. All trademarks are the property of their respective owners.
+
 
 
 
